@@ -1,0 +1,97 @@
+{
+	"ImportPath": "github.com/wind0r/docker-registry-untagger",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.11.2-6-g7f4b1ad",
+			"Rev": "7f4b1adc791766938c29457bed0703fb9134421a"
+		},
+		{
+			"ImportPath": "github.com/davecgh/go-spew/spew",
+			"Comment": "v1.1.0",
+			"Rev": "346938d642f2ec3594ed81d874461961cd0faa76"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/context",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/digestset",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/manifest",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/manifest/schema1",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/manifest/schema2",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/reference",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/distribution/uuid",
+			"Comment": "v2.6.0-rc.1-134-g4f87c800",
+			"Rev": "4f87c800734ffe0d8931e45679112aea36f8b5ec"
+		},
+		{
+			"ImportPath": "github.com/docker/libtrust",
+			"Rev": "aabc10ec26b754e797f9028f4589c5b7bd90dc20"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.3.0",
+			"Rev": "392c28fe23e1c45ddba891b0320b3b5df220beea"
+		},
+		{
+			"ImportPath": "github.com/opencontainers/go-digest",
+			"Comment": "v1.0.0-rc0",
+			"Rev": "aa2ec055abd10d26d539eb630a92241b781ce4bc"
+		},
+		{
+			"ImportPath": "github.com/pmezard/go-difflib/difflib",
+			"Comment": "v1.0.0",
+			"Rev": "792786c7400a136282c1664665ae0a8db921c6c2"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.1.4-27-g4d4bfba",
+			"Rev": "4d4bfba8f1d1027c4fdbe371823030df51419987"
+		},
+		{
+			"ImportPath": "github.com/wind0r/docker-registry-client/registry",
+			"Rev": "eba3b9269e227c1dc0378d6d8f82f183db625ba1"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "b4690f45fa1cafc47b1c280c2e75116efe40cc13"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "075e574b89e4c2d22f2286a7e2b919519c6f3547"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v1",
+			"Rev": "9f9df34309c04878acc86042b16630b0f696e1de"
+		}
+	]
+}

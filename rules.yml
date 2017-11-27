@@ -1,0 +1,11 @@
+repositories:
+  - testrepo
+
+validTags:
+  - '[A-Za-z]+_release_[0-9\.]+'
+  - '[A-Za-z]+_build_[0-9]+'
+
+keepBuilds: 2
+buildSortRegex: ([A-Za-z]+)_build_([0-9]+)
+
+minAgeBeforeDelete: 2
