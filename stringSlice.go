@@ -1,3 +1,9 @@
+// docker-unregstriy-untagger :- string slice utils
+// Copyright (c) 2017, Steffen Windoffer, Deutsche Telekom AG
+// Contact: opensource@telekom.de
+// This file is distributed under the conditions of the Apache2 license.
+// For details see the files LICENSE at the toplevel.
+
 package main
 
 import (
