@@ -20,7 +20,7 @@ Your Docker Registry needs to be started with `REGISTRY_STORAGE_DELETE_ENABLED=t
 * To finally clean up all the unused images run `bin/registry garbage-collect [--dry-run] /path/to/config.yml`
 
 # Installation
-`go install cp-wbench.psst.t-online.corp/gitlab/TRANSPORTER/docker-registry-untagger`
+`go install github.com/telekom/docker-registry-untagger`
 
 or download/compile a binary on your own and drop it into the bin folder
 
